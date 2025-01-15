@@ -28,13 +28,10 @@ To run the Weather App locally:
    - Weather icon representation
 
 ## API Integration
-This application uses the Open Meteo API (https://openweathermap.org/) for retrieving weather data. 
+This application uses the OpenWeather API (https://openweathermap.org/) for retrieving weather data. 
 
 ## Contributing
 Feel free to fork this repository and submit pull requests to contribute to this project.
-
-## License
-This project is open source and available under the MIT License.
 
 ## Author
 Created by Vishal Maurya
@@ -43,5 +40,4 @@ Created by Vishal Maurya
 For any questions or suggestions, please feel free to reach out to the project maintainer.
 
 ## Acknowledgments
-- Thanks to Open Meteo for providing the weather data API
-- Special thanks to all contributors who help improve this project
+- Thanks to OpenWeatherMap for providing the weather data API
